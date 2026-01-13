@@ -1,0 +1,25 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_A27085D9_B38B_4ADB_41DF_A3A07B8408A0.source = https://wa.me/5541992825469
+
+## Media
+
+### Title
+panorama_B997C41D_B364_58C7_41E5_E1D6A9FBB137.label = LS_Teste360.0000
+panorama_B859485B_B367_A943_41E1_975F244C4F85.label = LS_Teste360.0001
+panorama_B991AC07_B367_E8C3_41E2_3626CB03C584.label = LS_Teste360.0002
+panorama_B9948910_B367_E8DE_41D4_8DD3CBCCA455.label = LS_Teste360.0003
+panorama_B99479AA_B367_ABCD_41CF_84DF6F9BC944.label = LS_Teste360.0004
+panorama_B994899A_B367_ABCD_41E5_B9411AF260BA.label = LS_Teste360.0005
+panorama_B997B746_B364_6745_41D5_AC841CA59E37.label = LS_Teste360.0006
+panorama_B997B6E7_B364_7943_41D2_4C977ABF3A86.label = LS_Teste360.0007
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BRX - whatsapp button
